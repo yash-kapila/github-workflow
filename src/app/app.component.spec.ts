@@ -23,7 +23,7 @@ describe('AppComponent', () => {
   it(`should have as title 'github-workflow'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('github');
+    expect(app.title).toEqual('github-workflow');
   });
 
   it('should render title', () => {
