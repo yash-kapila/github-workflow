@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "github-workflow"
+    }
+  },
+  "defaultProject": "github-workflow",
+  "cli": {
+    "analytics": "0c317995-aa6b-4970-b1f7-0d2c261f4b37"
+  }
 }
